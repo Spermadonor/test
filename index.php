@@ -23,4 +23,5 @@ function binarySearchByKey($file, $iskomoye_znacheniye){
             }
         }
     return 'undef';
+    
 }
